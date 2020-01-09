@@ -9,4 +9,10 @@ En este repositorio intentaremos presentar distintas funcionalidades de Github q
 
 1. Darse de alta en Github.
 1. Creación de repositorios.
-1. 
+   * Edición de documentos.
+   * Archivo README.md
+   * [Formato MarkDown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
+1. Creando un sitio web con Github
+1. Bifurcar repositorios
+1. Presentaciones online
+1. Wikis
